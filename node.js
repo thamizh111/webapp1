@@ -10,8 +10,8 @@ const cors = require('cors'); // Import the 'cors' middleware
 // app.get('/quote', (req, res) => {
 //     // Replace this with your actual quote data or retrieval logic
 //         const quote = {
-//                 quote: "This is the quote from the backend.",
-//                         author: "Unknown"
+//                 quote: "Every moment is a fresh beginning.",
+//                         author: "T.S Eliot."
 //                             };
 //
 //                                 // Set CORS headers to allow requests from any origin
